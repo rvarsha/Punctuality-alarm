@@ -57,9 +57,9 @@ The "Community Edition (Licensed)" provides upto 5000 api calls per day.
 
 5. Once you have a key (say "aabbbcc1234"), change the strings.xml file like this:
 From:
-/<my_key/>"INSERT_YOUR_KEY_HERE"/</my_key/>
+INSERT_YOUR_KEY_HERE
 To:
-<my_key>"aabbbcc1234"</my_key>
+aabbbcc1234
 
 6. Build the application.
 
