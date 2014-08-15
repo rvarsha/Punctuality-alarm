@@ -30,6 +30,8 @@ Copyright
 
 Source Code
 =================
+All the source files can be found here
+https://github.com/rvarsha/Punctuality-alarm
 
 
 How to Install and use this application:
@@ -39,7 +41,7 @@ How to Install and use this application:
 
 4. Install Android SDK http://developer.android.com/sdk/index.html
 5. Install Android Debug bridge http://developer.android.com/tools/help/adb.html
-6. Begin a new Android project. Copy the src files for Punctuality Alarm from the github repository. You will also need to copy the res->values->strings.xml, android_manifest.xml, res->layouts->activity_traffic.xml files.
+6. Begin a new Android project. Copy the src files for Punctuality Alarm from the github repository. You will also need to copy the res->values->strings.xml, AndroidManifest.xml, res->layouts->activity_traffic.xml files.
 7. The program requires a key or token to the mapquest directions api.
 It is very easy to obtain this by registering on the mapquest developers network at the following link:
 http://developer.mapquest.com/web/info/account/app-keys
