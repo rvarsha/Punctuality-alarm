@@ -22,6 +22,9 @@ Contact
 =================
 rvarsha@pdx.edu
 
+Description
+=================
+
 Legal
 =================
 All of the source code in this archive is licensed under the terms of the GNU General Public License as published by the Free Software Foundation version 3 except as noted under LICENSE INFORMATION.txt
@@ -85,3 +88,11 @@ Inside the directory, you should see your .apk file.
 19. Click on "Set Alarm" to set the alarm.
 20. Click on "Cancel Alarm" if you want to cancel.
 21. The app will calculate your start time and send you a notification 15 minutes before your ideal start time.
+
+Bug Reporting
+=================
+If you find a bug not listed under the "Bug Tracker" list below, please send me a mail at rvarsha@pdx.edu
+
+Bug Tracker
+=================
+
