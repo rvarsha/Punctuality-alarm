@@ -6,8 +6,30 @@ Welcome to the Punctuality Alarm Repository!!
 
 All of the source code in this archive is licensed under the terms of the GNU General Public License as published by the Free Software Foundation version 3 except as noted under LICENSE INFORMATION.txt
 
+Name
+=================
+Varsha Radhakrishnan
 
+Project Name
+=================
+Punctuality Alarm
 
+Contributors:
+=================
+Varsha Radhakrishnan
+
+Contact
+=================
+rvarsha@pdx.edu
+
+Legal
+=================
+
+Copyright
+=================
+
+Source Code
+=================
 
 
 How to Install and use this application:
