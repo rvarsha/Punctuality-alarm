@@ -1,4 +1,2 @@
-1) The Punctuality Alarm program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation.
-A copy of the current version (GPL v3) is attached. See "GNU License.txt"
-An up to date copy of the agreement can be found at this link: http://www.gnu.org/licenses/gpl.txt
-2) The application makes use of the Mapquest API under a "Community Edition (Licensed Data)" license. The license and terms of use can be found at this link: http://developer.mapquest.com/web/info/terms-of-use.
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
+The Punctuality Alarm application makes use of the Mapquest API under a "Community Edition (Licensed Data)" license. Anyone who uses this software must comply with the license and terms of mentioned at this link:  http://developer.mapquest.com/web/info/terms-of-use.
