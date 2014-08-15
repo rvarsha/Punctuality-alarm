@@ -24,6 +24,7 @@ rvarsha@pdx.edu
 
 Description
 =================
+An app that periodically monitors the traffic and tells us the right time to start from home to reach the destination on time.
 
 Legal
 =================
