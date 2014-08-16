@@ -110,7 +110,7 @@ No open bugs as of now
 
 Acknowledgements
 =================
-*Some of the method calls used here are adopted from the samples given on the mapquestapi developers website
+* Some of the method calls used here are adopted from the samples given on the mapquestapi developers website
 http://developer.mapquest.com/web/products/featured/android-maps-api/documentation
 * Thanks are also due to various "stackoverflow.com" posters for their code examples.
 * The android developers page for information about various api calls.
