@@ -39,6 +39,15 @@ Source Code
 All the source files can be found here
 https://github.com/rvarsha/Punctuality-alarm
 
+Pre-requisites
+=================
+A smart phone which uses Android v4.0 or higher.
+
+A computer where you can build the application from the source files
+
+A mapquest api key (see instructions below)
+
+
 
 How to Install and use this application:
 =================
