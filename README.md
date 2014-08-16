@@ -94,12 +94,13 @@ Inside the directory, you should see your .apk file.
 ![alt tag](https://raw.githubusercontent.com/rvarsha/Punctuality-alarm/master/screen_shots/2.PNG)
 
 16. You can also click on "Show Itinerary" to get step by step directions and total travel time.
-
-17. Now click on "Set date". It will bring up a datepicker widget where you can enter the date of your appointment.
 ![alt tag](https://raw.githubusercontent.com/rvarsha/Punctuality-alarm/master/screen_shots/3.PNG)
 
-18. Click on "Set Time". It will bring up a timepicker widget where you can enter the time of your appointment.
+17. Now click on "Set date". It will bring up a datepicker widget where you can enter the date of your appointment.
 ![alt tag](https://raw.githubusercontent.com/rvarsha/Punctuality-alarm/master/screen_shots/4.PNG)
+
+18. Click on "Set Time". It will bring up a timepicker widget where you can enter the time of your appointment.
+![alt tag](https://raw.githubusercontent.com/rvarsha/Punctuality-alarm/master/screen_shots/5.PNG)
 
 19. Click on "Set Alarm" to set the alarm.
 20. Click on "Cancel Alarm" if you want to cancel.
