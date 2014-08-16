@@ -72,7 +72,9 @@ INSERT_YOUR_KEY_HERE
 To:
 aabbbcc1234
 
-6. Build the application.
+6. Build the application and run it on the ADT emulator through Eclipse. The instructions are here:
+http://developer.android.com/tools/building/building-eclipse.html
+This sample run will create a .apk file which can be installed on the phone.
 
 7. Find the Punctuality Alarm.apk file in the bin directory
 
