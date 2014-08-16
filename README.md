@@ -108,6 +108,13 @@ Bug Tracker
 =================
 No open bugs as of now
 
+References
+=================
+http://developer.android.com/guide/index.html
+http://www.mapquestapi.com/
+http://stackoverflow.com/
+
+
 Acknowledgements
 =================
 * Some of the method calls used here are adopted from the samples given on the mapquestapi developers website
