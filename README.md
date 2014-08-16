@@ -84,18 +84,22 @@ Inside the directory, you should see your .apk file.
 11. Once you have installed, double click the application to bring up the GUI.
 
 12. You can enter your start point and destination in the textboxes, as seen in the attached screenshot.
+![alt tag](https://raw.githubusercontent.com/rvarsha/Punctuality-alarm/master/screen_shots/1.PNG)
 
 13. Click on "Create Route"
 
 14. If it cannot find the location, an error will pop up and you will have to find a nearby location that mapquest recognizes. Usually, it is very good at getting the location right.
 
 15. Once the routing is done, a map will be shown on the lower half of the screen as shown in the screenshot 2.
+![alt tag](https://raw.githubusercontent.com/rvarsha/Punctuality-alarm/master/screen_shots/2.PNG)
 
 16. You can also click on "Show Itinerary" to get step by step directions and total travel time.
 
 17. Now click on "Set date". It will bring up a datepicker widget where you can enter the date of your appointment.
+![alt tag](https://raw.githubusercontent.com/rvarsha/Punctuality-alarm/master/screen_shots/3.PNG)
 
 18. Click on "Set Time". It will bring up a timepicker widget where you can enter the time of your appointment.
+![alt tag](https://raw.githubusercontent.com/rvarsha/Punctuality-alarm/master/screen_shots/4.PNG)
 
 19. Click on "Set Alarm" to set the alarm.
 20. Click on "Cancel Alarm" if you want to cancel.
