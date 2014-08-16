@@ -26,6 +26,9 @@ Description
 =================
 An app that periodically monitors the traffic and tells us the right time to start from home to reach the destination on time.
 
+More details of this application can be found here: 
+![alt tag](https://github.com/rvarsha/Punctuality-alarm/blob/master/presentation%20slides.pptx)
+
 Legal
 =================
 All of the source code in this archive is licensed under the terms of the GNU General Public License as published by the Free Software Foundation version 3 except as noted under the COPYING page:
